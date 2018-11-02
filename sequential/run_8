@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./main 8 multiplication_8.txt
+

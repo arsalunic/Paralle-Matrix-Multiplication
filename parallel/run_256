@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./main 256 multiplication_256.txt
+

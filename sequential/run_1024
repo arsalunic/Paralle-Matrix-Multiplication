@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./main 1024 multiplication_1024.txt
+

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./main 2 multiplication_2.txt
+

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./main 2048 multiplication_2048.txt
+
